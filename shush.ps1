@@ -33,7 +33,7 @@
 ############################################################################################################################################################
 
 # Download Sound (When using your own link "dl=0" needs to be changed to "dl=1")
-iwr "https://www.dropbox.com/scl/fi/j44i6xzdviyjp4v7gfehd/lol.wav?rlkey=yrrmbc9cwjw1ysp1b1g11iaog&st=zz8m1tcs&dl=1" -OutFile "$env:TMP\e.wav"
+iwr "https://www.wavsource.com/snds_2020-10-01_3728627494378403/sfx/boxing_bell_multiple.wav" -OutFile "$env:TMP\e.wav"
 
 ############################################################################################################################################################
 
